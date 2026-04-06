@@ -1,0 +1,32 @@
+{
+    "name": "vicistack/call-center-software-comparison",
+    "description": "Call Center Software Comparison: Buyer's Guide [2026]",
+    "type": "library",
+    "license": "MIT",
+    "keywords": [
+        "vicidial",
+        "asterisk",
+        "call-center",
+        "voip",
+        "predictive-dialer",
+        "call",
+        "center",
+        "software",
+        "comparison"
+    ],
+    "homepage": "https://vicistack.com/blog/call-center-software-comparison/",
+    "authors": [
+        {
+            "name": "ViciStack",
+            "homepage": "https://vicistack.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "ViciStack\\CallCenterSoftwareComparison\\": "src/"
+        }
+    }
+}
